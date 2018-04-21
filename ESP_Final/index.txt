@@ -1,0 +1,23 @@
+<html>
+<h1>Automated HTTP Server Deployment on AWS using Ansible</h1>
+
+<body style = "background:url(http://192.168.0.8:8080/background.jpg);background-repeat:no-repeat;background-size:100% 100%">
+<h2>List of Songs</h2>
+<ul>
+<li><a href = "http://192.168.0.8:8080/cloud_9.mp3"> Brayn_Adams</a></li>
+</ul>
+
+<h3>List of Wallpapers</h3>
+<ul>
+<li><a href = "http://192.168.0.8:8080/galaxy.jpg"> Galaxy</a></li>
+</ul>
+
+<h3>List of Movies</h3>
+<ul>
+<li><a href = "http://192.168.0.8:8080/sinhasan.mp4"> Sinhasan</a></li>
+</ul>
+
+</body>
+
+
+</html>
