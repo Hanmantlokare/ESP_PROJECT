@@ -14,7 +14,7 @@ def main():
     data = f.read()
     f.close()
 
-    newdata = filedata.replace("xxxx", data)
+    newdata = filedata.replace("xxxx",data)
 
     f = open(file, 'w')
     f.write(newdata)
