@@ -1,14 +1,17 @@
 **Automated HTTP Server Deployment on AWS cloud using Ansible**
 
 **Author: Hanmant Lokare, Indrajeet Vidhate**
+**Guided by: Dr. Charles Border**
 
 **Project Description**
-This project was based on our course **'NSSA.713.01-02 - Enterprise Service Provisioning (NSSA7130)'** at Rochester Institute of Technology.
+
+This project was based on our course **'NSSA.713.01-02 - Enterprise Service Provisioning (NSSA7130)'** at **Rochester Institute of Technology.**
 
 In this project, we had deployed a Java HTTP server manually and also using Ansible on Amazon Web services(AWS). 
  
 **Steps:**
-1.    Manually deploy Server on AWS:
+
+1.Manually deploy Server on AWS:
     	 Before automating the deployment of HTTP Server to AWS we will manually deploy the server to AWS.
 
 1.1 Creating the User:
@@ -27,4 +30,4 @@ In this project, we had deployed a Java HTTP server manually and also using Ansi
      We will do the same process of provisioning the server but this time we will use ansible to automate it. We will install the ansible on our local machine and create a host file to enter all the credential required and try to connect the server using ansible. Then we will write a playbook to install all the dependencies and libraries required to run our application. Finally, we will test our application on different browsers
 After Completing the above process, we have understood the basic difference between the manual vs automated deployment for time, simplicity and less error-prone environment.
 
-
+**Based on:** https://medium.com/@mglover/deploying-a-java-httpserver-to-aws-ec51388ed8e2
