@@ -1,6 +1,7 @@
 **Automated HTTP Server Deployment on AWS cloud using Ansible**
 
 **Author: Hanmant Lokare, Indrajeet Vidhate**
+
 **Guided by: Dr. Charles Border**
 
 **Project Description**
